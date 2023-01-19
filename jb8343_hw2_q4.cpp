@@ -14,7 +14,7 @@ int main()
     cout << intOne + intTwo << endl
         << intOne - intTwo << endl
         << intOne * intTwo << endl
-        << (double)intOne / (double)intTwo
+        << (double)intOne / (double)intTwo <<endl
         << intOne / intTwo << endl
         << intOne % intTwo << endl;
 
